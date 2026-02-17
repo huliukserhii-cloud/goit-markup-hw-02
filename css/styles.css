@@ -28,7 +28,7 @@ a {
 }
 .nav-link:hover,
 .nav-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .contacts {
   font-style: normal;
@@ -79,9 +79,6 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.team {
-  background-color: #f4f4fd;
-}
 .team-title {
   letter-spacing: 0.02em;
   text-align: center;
@@ -95,7 +92,7 @@ a {
 .text-subtitle {
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
+  color: #060608;
 }
 .team-portfolio {
   letter-spacing: 0.02em;
@@ -119,9 +116,12 @@ a {
   color: #4d5ae5;
 }
 .footer-logo-span {
-  color: #fff;
+  color: #f4f4fd;
 }
 .text-subtitle {
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.text-footer {
+  color: #fff;
 }
